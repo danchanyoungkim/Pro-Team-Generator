@@ -14,6 +14,8 @@
 
   ## Description
   The project's purpose was to produce an ease of accessibility to create template for a team 'roster' which includes manager, engineer(s), and intern(s). It solves time efficiency for those needing a quick template of their professional team. If there is one lesson to be learned, back-end has numerous access to front-end. If a programmer understands and knows how to structure within the areas of the back-end, then the programmer is capable of creating everything within that field.
+  
+  For a brief walkthrough, click this [link](https://www.youtube.com/watch?v=0mNV-Fx81-I&ab_channel=DanKim)!
 
   ## Installation
   First step is to copy the https and clone it into a folder of the individual's personal choice. 
